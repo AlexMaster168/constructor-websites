@@ -11,7 +11,7 @@
     "js",
     "javascript"
   ],
-  "author": "Vladilen Minin <minin@vladilen.ru>",
+  "author": "Alex Master",
   "license": "ISC",
   "devDependencies": {
     "html-webpack-plugin": "^4.3.0",
